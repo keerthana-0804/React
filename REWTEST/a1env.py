@@ -8,3 +8,7 @@ observation = env.reset()
 time.sleep(5)
 # Rendering the environment 
 env.render()
+
+
+#changes made to this file 
+#arguments depends upon gym version
